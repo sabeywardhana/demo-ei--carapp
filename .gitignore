@@ -1,0 +1,8 @@
+
+demo-product-project/target/**
+demo-products/.settings/**
+demo-product-project/.project
+demo-products/.classpath
+demo-products/.project
+demo-product-project/.settings/org.eclipse.m2e.core.prefs
+demo-products/target/**
